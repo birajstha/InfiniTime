@@ -51,7 +51,8 @@ Fast open-source firmware for the [PineTime smartwatch](https://www.pine64.org/p
 - [Flash the firmware using JLink](doc/jlink.md)
 - [Flash the firmware using GDB](doc/gdb.md)
 - [Stub using NRF52-DK](doc/PinetimeStubWithNrf52DK.md)
-
+- [Converting .bin to .zip package](https://github.com/adafruit/Adafruit_nRF52_nrfutil)
+- [Building Pinetime guide](https://lupyuen.github.io/pinetime-rust-mynewt/articles/cloud#make-dfu-firmware-pinetime-mcuboot-app)
 ### API
 
 - [BLE implementation and API](doc/ble.md)
