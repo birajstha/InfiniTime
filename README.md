@@ -2,10 +2,7 @@
 
 [![Build PineTime Firmware](https://github.com/InfiniTimeOrg/InfiniTime/workflows/Build%20PineTime%20Firmware/badge.svg?branch=master)](https://github.com/InfiniTimeOrg/InfiniTime/actions)
 
-![InfiniTime logo](doc/logo/infinitime-logo-small.jpg "InfiniTime Logo")
 <img src="https://github.com/birajstha/InfiniTime/blob/develop/IMG_20230221_152054%7E2.jpg" height="600" >
-
-
 Fast open-source firmware for the [PineTime smartwatch](https://www.pine64.org/pinetime/) with many features, written in modern C++.
 
 ## New to InfiniTime?
@@ -36,6 +33,8 @@ Fast open-source firmware for the [PineTime smartwatch](https://www.pine64.org/p
 - [Versioning](doc/versioning.md)
 - [Project branches](doc/branches.md)
 - [Files included in the release notes](doc/filesInReleaseNotes.md)
+
+![InfiniTime logo](doc/logo/infinitime-logo-small.jpg "InfiniTime Logo")
 
 ### Contributing
 
